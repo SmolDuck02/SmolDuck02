@@ -7,7 +7,7 @@ Got a project in mind? Feel free to drop a hi! 🤟 <br>
 ## 📬 Connect with Me
 Email: [ursonalj@gmail.com](mailto:ursonalj@gmail.com)<br>
 LinkedIn: [in/jameel-ursonal](linkedin.com/in/jameel-ursonal)<br>
-Portfolio: [jameelmarco.ursonal.netlify.app](jameelmarco.ursonal.netlify.app)<br>
+Portfolio: [jameelmarcoursonal.netlify.app](jameelmarcoursonal.netlify.app)<br>
 
 ##
 
