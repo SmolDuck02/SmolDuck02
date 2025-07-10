@@ -21,10 +21,10 @@ Portfolio: [jameelmarcoursonal.netlify.app](https://jameelmarcoursonal.netlify.a
 <img src="https://github.com/user-attachments/assets/7ede517d-97fd-48e5-ba11-416e348bdfe4" width="50" />
 
 ### 🦾 Frameworks/Libraries
-[![languages](https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,django,astro,solidjs)]
+![languages](https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,django,astro,solidjs)
 
 ### 🔐 Databases
-[![languages](https://skillicons.dev/icons?i=redis,postgres,sqlite,firebase)]
+![languages](https://skillicons.dev/icons?i=redis,postgres,sqlite,firebase)
 
 ### 🧰 Tools
-[![languages](https://skillicons.dev/icons?i=vscode,git,figma,github,jira,clickup)]
+![languages](https://skillicons.dev/icons?i=vscode,git,figma,github,jira,clickup)
