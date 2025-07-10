@@ -12,7 +12,7 @@ Portfolio: [jameelmarcoursonal.netlify.app](https://jameelmarcoursonal.netlify.a
 ##
 
 ### 🫀 Languages
-[![languages](https://skillicons.dev/icons?i=js,ts,java,python,c,sql)](https://skillicons.dev)
+![languages](https://skillicons.dev/icons?i=js,ts,java,python,c,sql)
 
 ### ⚙️ AI/ML
 <img src="https://github.com/user-attachments/assets/bb9c69d1-378b-4d1c-b720-fcb177609d49" width="50" />
